@@ -1,0 +1,15 @@
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\bin\Debug\Simple911.dll
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\bin\Debug\Simple911.pdb
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\bin\Debug\Assembly-CSharp.dll
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\bin\Debug\Rocket.API.dll
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\bin\Debug\Rocket.Core.dll
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\bin\Debug\Rocket.Unturned.dll
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\bin\Debug\SDG.NetTransport.dll
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\bin\Debug\UnityEngine.dll
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\obj\Debug\Simple911.csproj.AssemblyReference.cache
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\obj\Debug\Simple911.csproj.CoreCompileInputs.cache
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\obj\Debug\Simple911.csproj.CopyComplete
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\obj\Debug\Simple911.dll
+C:\Users\pavol\source\repos\Unturned Plugins\Simple911\Simple911\obj\Debug\Simple911.pdb
